@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 10 19:13:48 2018
 
-@author: 斗城
+@author: tokai235
 """
 
 class Chord:
