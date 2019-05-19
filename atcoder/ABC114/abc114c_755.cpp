@@ -10,7 +10,7 @@ using namespace std;
 #define REF(i, s, e) for(int i=s; i>e; i--)
 typedef long long ll;
 
-/*vector<int> list753({ 7,5,3 });
+vector<int> list753({ 7,5,3 });
 
 //num‚Ån‚Ü‚énˆÈ‰º‚Ì753”ŒvZ
 ll count753(ll num, ll n) {
@@ -39,4 +39,4 @@ int main(void) {
 
 	cout << count753(0, n) << endl;
 
-}*/
+}

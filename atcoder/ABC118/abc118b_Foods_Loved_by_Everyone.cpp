@@ -5,7 +5,7 @@ using namespace std;
 #define FOR(i, s, e) for(int i=s; i<e; i++)
 #define REF(i, s, e) for(int i=s; i>e; i--)
 
-/*int main(void) {
+int main(void) {
 	cin.tie(0);
 	ios::sync_with_stdio(false);
 
@@ -36,4 +36,4 @@ using namespace std;
 	cout << "count:" << endl;
 	cout << count;
 
-}*/
+}

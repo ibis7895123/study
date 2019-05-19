@@ -12,7 +12,7 @@ typedef long long ll;
 //template<class T> inline bool chmax(T& a, T b) { if (a < b) { a = b; return 1; } return 0; }
 
 
-/*int n;
+int n;
 ll k;
 const int dmax = 50;
 //dp[ã‚©‚çiŒ…‚Ü‚Å][smaller]
@@ -79,4 +79,4 @@ int main(void) {
 
 	cout << max(dp[dmax][0], dp[dmax][1]) << endl;
 
-}*/
+}

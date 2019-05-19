@@ -10,7 +10,7 @@ using namespace std;
 typedef long long ll;
 
 
-/*int main(void) {
+int main(void) {
 	cin.tie(0);
 	ios::sync_with_stdio(false);
 
@@ -43,4 +43,4 @@ typedef long long ll;
 	cout << count0 << " vs " << count1 << endl;
 	cout << min(count0, count1) << endl;
 
-}*/
+}

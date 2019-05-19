@@ -9,7 +9,7 @@ using namespace std;
 #define FOR(i, s, e) for(int i=s; i<e; i++)
 #define REF(i, s, e) for(int i=s; i>e; i--)
 typedef long long ll;
-/*const int INF = 1<<30;
+const int INF = 1<<30;
 
 int main(void) {
 	cin.tie(0);
@@ -35,4 +35,4 @@ int main(void) {
 	}
 	cout << min1 << endl;
 
-}*/
+}

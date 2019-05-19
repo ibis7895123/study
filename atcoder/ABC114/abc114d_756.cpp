@@ -10,7 +10,7 @@ using namespace std;
 #define REF(i, s, e) for(int i=s; i>e; i--)
 typedef long long ll;
 
-/*int n;
+int n;
 vector<int> e(110, 0); //Še‘fˆö”‚Ìw”‚ğŠi”[ prime^e
 
 int main(void) {
@@ -66,4 +66,4 @@ int main(void) {
 	
 	cout << cnt << endl;
 
-}*/
+}

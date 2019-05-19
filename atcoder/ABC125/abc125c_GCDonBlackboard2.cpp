@@ -10,7 +10,7 @@ using namespace std;
 #define REF(i, s, e) for(int i=s; i>e; i--)
 typedef long long ll;
 
-/*int n;
+int n;
 
 //a‚Æb‚ÌÅ‘åŒö–ñ”‚ğ•Ô‚·
 int gcd(ll a, ll b) {
@@ -67,4 +67,4 @@ int main(void) {
 		max1 = max(max1, ans);
 	}
 	cout << max1 << endl;
-}*/
+}

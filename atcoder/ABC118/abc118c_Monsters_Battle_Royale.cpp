@@ -6,7 +6,7 @@ using namespace std;
 #define FOR(i, s, e) for(int i=s; i<e; i++)
 #define REF(i, s, e) for(int i=s; i>e; i--)
 
-/*int main(void) {
+int main(void) {
 	int n;
 	cin >> n;
 
@@ -38,4 +38,4 @@ using namespace std;
 
 	cout << monsters[0];
 
-}*/
+}

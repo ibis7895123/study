@@ -7,7 +7,7 @@ using namespace std;
 #define FOR(i, s, e) for(int i=s; i<e; i++)
 #define REF(i, s, e) for(int i=s; i>e; i--)
 
-/*int n, a, b, c;
+int n, a, b, c;
 vector<int> bamboo(8);
 int min1 = 9999999;
 
@@ -47,7 +47,7 @@ void dfs(int depth, vector<int> flag) {
 	}
 }
 
-/*int main(void) {
+int main(void) {
 	
 	cin >> n >> a >> b >> c;
 	
@@ -63,4 +63,4 @@ void dfs(int depth, vector<int> flag) {
 
 	//vector<int> flag({1,2,2,2,3});
 	//calc(flag);
-}*/
+}

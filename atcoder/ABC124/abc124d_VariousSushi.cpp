@@ -9,7 +9,7 @@ using namespace std;
 #define FOR(i, s, e) for(int i=s; i<e; i++)
 #define REF(i, s, e) for(int i=s; i>e; i--)
 typedef long long ll;
-/*const ll INF = 1LL << 40;
+const ll INF = 1LL << 40;
 
 template<class T> inline bool chmax(T& a, T b) { if (a < b) { a = b; return 1; } return 0; }
 
@@ -95,4 +95,4 @@ int main(void) {
 	}
 
 	cout << max1 << endl;
-}*/
+}

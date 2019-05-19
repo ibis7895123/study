@@ -11,7 +11,7 @@ typedef long long ll;
 static const int INF = 999999999;
 
 
-/*static const vector<int> numToMatch({ 2,5,5,4,5,6,3,7,6 });
+static const vector<int> numToMatch({ 2,5,5,4,5,6,3,7,6 });
 int n_match, n_num;
 
 
@@ -76,4 +76,4 @@ int main(void) {
 	string ans;
 	ans = calNums(dp, nums, ans);
 	cout << "ans:" << ans << endl;
-}*/
+}

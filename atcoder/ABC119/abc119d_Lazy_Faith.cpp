@@ -28,7 +28,7 @@ long long distance_simple(long long ax, long long bx, long long x) {
 	return abs(x -  ax) + abs(bx - ax);
 }
 
-/*int main(void) {
+int main(void) {
 	cin.tie(0);
 	ios::sync_with_stdio(false);
 
@@ -109,11 +109,11 @@ long long distance_simple(long long ax, long long bx, long long x) {
 					//cout << "min: " << min1 << endl;
 				}
 			}
-		}
+		}*/
 	
 		//cout << "min: " << min1 << endl;
 		//cout << min1 << endl;
 		
 	}
 
-}*/
+}

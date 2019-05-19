@@ -52,7 +52,7 @@ public:
 	}
 };
 
-/*int main(void) {
+int main(void) {
 	cin.tie(0);
 	ios::sync_with_stdio(false);
 
@@ -98,5 +98,5 @@ public:
 		cout << ans[i] << endl;
 	}
 
-}*/
+}
 

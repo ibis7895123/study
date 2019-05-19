@@ -13,7 +13,7 @@ const ll INF = 1LL << 40;
 
 template<class T> inline bool chmax(T& a, T b) { if (a < b) { a = b; return 1; } return 0; }
 
-/*int main(void) {
+int main(void) {
 	cin.tie(0);
 	ios::sync_with_stdio(false);
 
@@ -43,4 +43,4 @@ template<class T> inline bool chmax(T& a, T b) { if (a < b) { a = b; return 1; }
 	FOR(i, 0, n+1) cout << dp[i][0] << "," << dp[i][1] << endl;
 	cout << endl;
 
-}*/
+}

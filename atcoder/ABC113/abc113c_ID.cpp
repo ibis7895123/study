@@ -11,7 +11,7 @@ using namespace std;
 #define REF(i, s, e) for(int i=s; i>e; i--)
 typedef long long ll;
 
-/*//6Œ…‚Ìƒ[ƒ–„‚ß
+//6Œ…‚Ìƒ[ƒ–„‚ß
 string zeroPadding(int num) {
 	string s = to_string(num);
 	int zero = 6 - s.size();
@@ -57,4 +57,4 @@ int main(void) {
 	FOR(i, 0, m) cout << ID[i] << endl;
 	//cout << endl;
 
-}*/
+}

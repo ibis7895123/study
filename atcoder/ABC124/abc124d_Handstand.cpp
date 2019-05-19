@@ -10,7 +10,7 @@ using namespace std;
 #define REF(i, s, e) for(int i=s; i>e; i--)
 typedef long long ll;
 
-/*int n, k;
+int n, k;
 string s;
 vector<int> nums01;
 
@@ -60,4 +60,4 @@ int main(void) {
 	}
 	cout << res << endl;
 
-}*/
+}

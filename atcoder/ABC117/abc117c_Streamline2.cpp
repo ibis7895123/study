@@ -10,7 +10,7 @@ using namespace std;
 #define REF(i, s, e) for(int i=s; i>e; i--)
 typedef long long ll;
 
-/*int n_piece, n_x;
+int n_piece, n_x;
 
 int main(void) {
 	cin.tie(0);
@@ -49,4 +49,4 @@ int main(void) {
 		ans -= dxs[i];
 	}
 	cout << ans << endl;
-}*/
+}

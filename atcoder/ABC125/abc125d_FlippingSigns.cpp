@@ -10,7 +10,7 @@ using namespace std;
 #define REF(i, s, e) for(int i=s; i>e; i--)
 typedef long long ll;
 
-/*int main(void) {
+int main(void) {
 	cin.tie(0);
 	ios::sync_with_stdio(false);
 
@@ -46,4 +46,4 @@ typedef long long ll;
 		
 		cout << sum1 - 2*min_a << endl;
 	}
-}*/
+}
